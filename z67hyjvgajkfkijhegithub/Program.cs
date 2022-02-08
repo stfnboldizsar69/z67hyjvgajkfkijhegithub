@@ -11,6 +11,8 @@ namespace z67hyjvgajkfkijhegithub
         static void Main(string[] args)
         {
             Console.WriteLine(":}");
+
+            Console.WriteLine(":)");
         }
     }
 }
